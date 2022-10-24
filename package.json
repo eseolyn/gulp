@@ -1,0 +1,30 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development environment",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunseolYun/gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eunseolYun/gulp/issues"
+  },
+  "homepage": "https://github.com/eunseolYun/gulp#readme",
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "@babel/register": "^7.18.9",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0"
+  },
+  "dependencies": {
+    "del": "^7.0.0"
+  }
+}
