@@ -21,10 +21,10 @@
     "@babel/core": "^7.19.6",
     "@babel/preset-env": "^7.19.4",
     "@babel/register": "^7.18.9",
+    "del": "^4.1.1",
     "gulp": "^4.0.2",
-    "gulp-pug": "^5.0.0"
-  },
-  "dependencies": {
-    "del": "^7.0.0"
+    "gulp-image": "^6.2.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-webserver": "^0.9.1"
   }
 }
